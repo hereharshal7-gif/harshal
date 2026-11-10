@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pyjwt
+google-genai
+dodopayments[webhooks]
+python-dotenv
